@@ -9,8 +9,8 @@ All of the text is replaced after reload, so to re-randomize you just press `CTR
 ![i have an erection](https://cdn.discordapp.com/attachments/394160269980467200/942833455123820574/unknown.png)
 
 ### How to install
-On the main page, right click `JohnsErection.js` and click "Save link as...", then download.
+On the main page, right click `JohnsErection.js` and click "Save link as...", then click "Save" to download it.  
 When it's done downloading, open the Ultimate Homestuck Collection, head to the settings, then scroll down to **Mod Settings** and click the link "mods directory".  
-Now, just move `JohnsErection.js` into the mods folder it just opened.
-
+Now, just move `JohnsErection.js` into the mods folder it just opened.  
+  
 NOTE: You must have the v2 or higher of the Ultimate Homestuck Collection, as the older one does not support mods.
