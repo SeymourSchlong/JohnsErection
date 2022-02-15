@@ -1,5 +1,5 @@
 # Johns Erection
-A mod for the Ultimate Homestuck Collection
+A mod for the Unofficial Homestuck Collection
 
 ### What it does
 For every pesterlog/dialoglog that John speaks in, a random line of his is replaced with "i have an erection."  
@@ -10,7 +10,7 @@ All of the text is replaced after reload, so to re-randomize you just press `CTR
 
 ### How to install
 On the main page, right click `JohnsErection.js` and click "Save link as...", then click "Save" to download it.  
-When it's done downloading, open the Ultimate Homestuck Collection, head to the settings, then scroll down to **Mod Settings** and click the link "mods directory".  
+When it's done downloading, open the Unofficial Homestuck Collection, head to the settings, then scroll down to **Mod Settings** and click the link "mods directory".  
 Now, just move `JohnsErection.js` into the mods folder it just opened.  
   
-NOTE: You must have the v2 or higher of the Ultimate Homestuck Collection, as the older one does not support mods.
+NOTE: You must have the v2 or higher of the Unofficial Homestuck Collection, as the older one does not support mods.
